@@ -1,0 +1,22 @@
+.first{
+    background-color: #B7C4CF;
+    margin: 0;
+    padding-top: 100px;
+    height: 510px;
+}
+.second{
+    background-color: #EEE3CB;
+    margin-top: 0;
+}
+.secondimage{
+    border-radius: 50%;
+    height: 70px;
+}
+.third{
+    background-color: #D7C0AE;
+    height: 400px;
+    padding-top: 6rem;
+}
+footer{
+    background-color: #967E76;
+}
